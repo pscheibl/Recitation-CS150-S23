@@ -9,7 +9,6 @@
 tax: `stateSalesTax = salePrice * 0.04  `
 6.  Find the city’s portion of the sales  
 tax: `citySalesTax = salePrice * 0.015`  
-9  
 7.  Find total sales tax:  
 `salesTax = stateSalesTax +  citySalesTax + luxuryTax  `
 8.  Finally, find amount due:  

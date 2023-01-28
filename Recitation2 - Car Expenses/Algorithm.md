@@ -3,14 +3,14 @@
 2. Declare **Variables**
 3. Declare and open an *output file*
 4. Take user input.
-4.1 Prompt and get **Car Make**
-4.2 Prompt and get **Car Model**
-4.3 Prompt and get **Car Cost**
-4.4 Prompt and get **Down Payment**
-4.5 Prompt and get **Annual Interest**
-4.6 Prompt and get **Loan Term**
-4.7 Prompt and get **MPG**
-4.8 Prompt and get **Annual Mileage**
+	- Prompt and get **Car Make**
+	- Prompt and get **Car Model**
+	- Prompt and get **Car Cost**
+	- Prompt and get **Down Payment**
+	- Prompt and get **Annual Interest**
+	- Prompt and get **Loan Term**
+	- Prompt and get **MPG**
+	- Prompt and get **Annual Mileage**
 5. Calculate total **cost of gas** per year
 6. Calculate **Monthly interest** rate
 7. Calculate the **monthly loan payment**
