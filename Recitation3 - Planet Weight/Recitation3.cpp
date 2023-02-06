@@ -1,6 +1,6 @@
 /// CS 150 Recitation Exercise 3
 /// Peter Scheible
-/// January 9, 2023
+/// January 30, 2023
 
 ///-----------------------------------------------------///
 
