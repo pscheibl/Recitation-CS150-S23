@@ -1,0 +1,14 @@
+1218 Aluminium	
+1700 Brass		
+1675 Bronze		
+2200 Cast Iron	
+1981 Copper		
+1945 Gold		
+621 Lead		
+1204 Magnesium	
+2646 Nickel		
+1761 Silver		
+2500 Steel		
+6150 Tungsten	
+2700 Wrought Iron	
+787 Zinc		
