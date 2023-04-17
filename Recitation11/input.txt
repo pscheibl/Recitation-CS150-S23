@@ -7,4 +7,4 @@ Liam 	1982	California	M
 Ethan	1940	Kansas		M
 James	1962	Arkansas	M
 Nick	2001	Louisiana	M
-Gary	1999	Virginia M
+Gary	1999	Virginia  M
